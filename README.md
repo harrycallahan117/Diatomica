@@ -1,5 +1,5 @@
 # Diatomica
-Diatomica is a genus of diatoms, a type of algae. It is a genus of diatoms, a type of algae. It is a genus of diatoms, a type of algae. 
+
 
 ## Diatom Image Classification for Water Quality Monitoring
 
