@@ -1,0 +1,51 @@
+<annotation>
+  <filename>417</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>1312</xmin>
+        <xmax>1500</xmax>
+        <ymin>969</ymin>
+        <ymax>1296</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>13</id>
+      <name>Navicula capitatoradiata</name>
+      <bbox>
+        <xmin>75</xmin>
+        <xmax>498</xmax>
+        <ymin>192</ymin>
+        <ymax>702</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>390</xmin>
+        <xmax>820</xmax>
+        <ymin>424</ymin>
+        <ymax>726</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>1397</xmin>
+        <xmax>1853</xmax>
+        <ymin>883</ymin>
+        <ymax>1096</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

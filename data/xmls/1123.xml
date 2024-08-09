@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1123</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>1017</xmin>
+        <xmax>1374</xmax>
+        <ymin>397</ymin>
+        <ymax>702</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>793</xmin>
+        <xmax>1260</xmax>
+        <ymin>1385</ymin>
+        <ymax>1527</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

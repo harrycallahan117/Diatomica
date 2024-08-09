@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1309</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>95</id>
+      <name>Navicula cryptotenelloides</name>
+      <bbox>
+        <xmin>622</xmin>
+        <xmax>853</xmax>
+        <ymin>855</ymin>
+        <ymax>1077</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>97</id>
+      <name>Halamphora paraveneta</name>
+      <bbox>
+        <xmin>407</xmin>
+        <xmax>774</xmax>
+        <ymin>851</ymin>
+        <ymax>1327</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>101</id>
+      <name>Epithemia goeppertiana</name>
+      <bbox>
+        <xmin>1499</xmin>
+        <xmax>1888</xmax>
+        <ymin>579</ymin>
+        <ymax>1099</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

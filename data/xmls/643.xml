@@ -1,0 +1,31 @@
+<annotation>
+  <filename>643</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>56</id>
+      <name>Diatoma mesodon</name>
+      <bbox>
+        <xmin>897</xmin>
+        <xmax>1068</xmax>
+        <ymin>1136</ymin>
+        <ymax>1455</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>24</xmin>
+        <xmax>338</xmax>
+        <ymin>631</ymin>
+        <ymax>878</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

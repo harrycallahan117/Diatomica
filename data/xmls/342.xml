@@ -1,0 +1,41 @@
+<annotation>
+  <filename>342</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1105</xmin>
+        <xmax>1219</xmax>
+        <ymin>517</ymin>
+        <ymax>658</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>1042</xmin>
+        <xmax>1526</xmax>
+        <ymin>396</ymin>
+        <ymax>719</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>247</xmin>
+        <xmax>786</xmax>
+        <ymin>831</ymin>
+        <ymax>1001</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

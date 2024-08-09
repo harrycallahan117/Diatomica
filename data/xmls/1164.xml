@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1164</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>87</id>
+      <name>Cymbella excisa var. procera</name>
+      <bbox>
+        <xmin>702</xmin>
+        <xmax>868</xmax>
+        <ymin>763</ymin>
+        <ymax>1235</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>882</xmin>
+        <xmax>1142</xmax>
+        <ymin>145</ymin>
+        <ymax>953</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

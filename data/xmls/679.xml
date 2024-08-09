@@ -1,0 +1,31 @@
+<annotation>
+  <filename>679</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>417</xmin>
+        <xmax>630</xmax>
+        <ymin>816</ymin>
+        <ymax>1154</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>58</id>
+      <name>Gomphonema pumilum var. rigidum</name>
+      <bbox>
+        <xmin>411</xmin>
+        <xmax>674</xmax>
+        <ymin>1336</ymin>
+        <ymax>1467</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

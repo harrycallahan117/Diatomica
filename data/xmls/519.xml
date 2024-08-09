@@ -1,0 +1,21 @@
+<annotation>
+  <filename>519</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>51</id>
+      <name>Gomphonema pumilum</name>
+      <bbox>
+        <xmin>829</xmin>
+        <xmax>1046</xmax>
+        <ymin>648</ymin>
+        <ymax>804</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

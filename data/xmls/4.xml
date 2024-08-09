@@ -1,0 +1,21 @@
+<annotation>
+  <filename>4</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>1001</xmin>
+        <xmax>1527</xmax>
+        <ymin>251</ymin>
+        <ymax>544</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>24</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>142</id>
+      <name>Gomphonema drutelingense</name>
+      <bbox>
+        <xmin>730</xmin>
+        <xmax>1011</xmax>
+        <ymin>1022</ymin>
+        <ymax>1511</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>1045</xmin>
+        <xmax>1635</xmax>
+        <ymin>642</ymin>
+        <ymax>954</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

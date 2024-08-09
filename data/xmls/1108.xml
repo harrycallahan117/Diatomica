@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1108</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>1285</xmin>
+        <xmax>1453</xmax>
+        <ymin>1072</ymin>
+        <ymax>1284</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>1289</xmin>
+        <xmax>1535</xmax>
+        <ymin>896</ymin>
+        <ymax>1094</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

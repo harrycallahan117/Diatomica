@@ -1,0 +1,31 @@
+<annotation>
+  <filename>34</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>690</xmin>
+        <xmax>915</xmax>
+        <ymin>457</ymin>
+        <ymax>837</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>1022</xmin>
+        <xmax>1728</xmax>
+        <ymin>1135</ymin>
+        <ymax>1484</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

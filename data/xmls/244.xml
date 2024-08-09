@@ -1,0 +1,41 @@
+<annotation>
+  <filename>244</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>21</id>
+      <name>Nitzschia archibaldii</name>
+      <bbox>
+        <xmin>300</xmin>
+        <xmax>509</xmax>
+        <ymin>607</ymin>
+        <ymax>896</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>44</id>
+      <name>Navicula gregaria</name>
+      <bbox>
+        <xmin>1485</xmin>
+        <xmax>1845</xmax>
+        <ymin>41</ymin>
+        <ymax>198</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>571</xmin>
+        <xmax>1063</xmax>
+        <ymin>706</ymin>
+        <ymax>940</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

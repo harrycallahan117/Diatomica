@@ -1,0 +1,31 @@
+<annotation>
+  <filename>190</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1725</xmin>
+        <xmax>1954</xmax>
+        <ymin>1084</ymin>
+        <ymax>1185</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>18</id>
+      <name>Pantocsekiella ocellata</name>
+      <bbox>
+        <xmin>968</xmin>
+        <xmax>1249</xmax>
+        <ymin>699</ymin>
+        <ymax>982</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

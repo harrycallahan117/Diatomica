@@ -1,0 +1,31 @@
+<annotation>
+  <filename>935</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>865</xmin>
+        <xmax>1069</xmax>
+        <ymin>165</ymin>
+        <ymax>508</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>56</id>
+      <name>Diatoma mesodon</name>
+      <bbox>
+        <xmin>497</xmin>
+        <xmax>800</xmax>
+        <ymin>556</ymin>
+        <ymax>784</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

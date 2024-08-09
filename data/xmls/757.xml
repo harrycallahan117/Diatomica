@@ -1,0 +1,21 @@
+<annotation>
+  <filename>757</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>12</id>
+      <name>Encyonema ventricosum</name>
+      <bbox>
+        <xmin>647</xmin>
+        <xmax>814</xmax>
+        <ymin>912</ymin>
+        <ymax>1226</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

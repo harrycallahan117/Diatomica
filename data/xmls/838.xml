@@ -1,0 +1,31 @@
+<annotation>
+  <filename>838</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>1116</xmin>
+        <xmax>1356</xmax>
+        <ymin>831</ymin>
+        <ymax>932</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>37</xmin>
+        <xmax>358</xmax>
+        <ymin>1182</ymin>
+        <ymax>1522</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

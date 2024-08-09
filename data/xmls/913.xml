@@ -1,0 +1,31 @@
+<annotation>
+  <filename>913</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1797</xmin>
+        <xmax>1985</xmax>
+        <ymin>332</ymin>
+        <ymax>506</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>12</id>
+      <name>Encyonema ventricosum</name>
+      <bbox>
+        <xmin>440</xmin>
+        <xmax>769</xmax>
+        <ymin>1281</ymin>
+        <ymax>1426</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

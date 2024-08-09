@@ -1,0 +1,31 @@
+<annotation>
+  <filename>862</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>1534</xmin>
+        <xmax>1748</xmax>
+        <ymin>907</ymin>
+        <ymax>1023</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>58</id>
+      <name>Gomphonema pumilum var. rigidum</name>
+      <bbox>
+        <xmin>1207</xmin>
+        <xmax>1512</xmax>
+        <ymin>966</ymin>
+        <ymax>1111</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

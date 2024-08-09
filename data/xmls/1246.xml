@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1246</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>95</id>
+      <name>Navicula cryptotenelloides</name>
+      <bbox>
+        <xmin>471</xmin>
+        <xmax>574</xmax>
+        <ymin>953</ymin>
+        <ymax>1248</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>874</xmin>
+        <xmax>1379</xmax>
+        <ymin>902</ymin>
+        <ymax>1112</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

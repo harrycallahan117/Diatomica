@@ -1,0 +1,31 @@
+<annotation>
+  <filename>902</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>4</id>
+      <name>Diploneis fontanella</name>
+      <bbox>
+        <xmin>563</xmin>
+        <xmax>697</xmax>
+        <ymin>60</ymin>
+        <ymax>447</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>21</id>
+      <name>Nitzschia archibaldii</name>
+      <bbox>
+        <xmin>1119</xmin>
+        <xmax>1461</xmax>
+        <ymin>1026</ymin>
+        <ymax>1270</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

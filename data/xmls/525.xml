@@ -1,0 +1,21 @@
+<annotation>
+  <filename>525</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>60</id>
+      <name>Amphora pediculus</name>
+      <bbox>
+        <xmin>1175</xmin>
+        <xmax>1278</xmax>
+        <ymin>718</ymin>
+        <ymax>864</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

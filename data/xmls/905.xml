@@ -1,0 +1,21 @@
+<annotation>
+  <filename>905</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>26</id>
+      <name>Frustulia vulgaris</name>
+      <bbox>
+        <xmin>189</xmin>
+        <xmax>784</xmax>
+        <ymin>396</ymin>
+        <ymax>1135</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

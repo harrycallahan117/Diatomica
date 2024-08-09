@@ -1,0 +1,21 @@
+<annotation>
+  <filename>220</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>18</id>
+      <name>Pantocsekiella ocellata</name>
+      <bbox>
+        <xmin>621</xmin>
+        <xmax>916</xmax>
+        <ymin>707</ymin>
+        <ymax>1003</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

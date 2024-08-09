@@ -1,0 +1,21 @@
+<annotation>
+  <filename>508</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>19</id>
+      <name>Navicula tripunctata</name>
+      <bbox>
+        <xmin>552</xmin>
+        <xmax>1298</xmax>
+        <ymin>94</ymin>
+        <ymax>405</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

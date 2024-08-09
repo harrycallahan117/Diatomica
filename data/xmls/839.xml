@@ -1,0 +1,31 @@
+<annotation>
+  <filename>839</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>59</id>
+      <name>Caloneis lancettula</name>
+      <bbox>
+        <xmin>1507</xmin>
+        <xmax>1600</xmax>
+        <ymin>612</ymin>
+        <ymax>967</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>21</id>
+      <name>Nitzschia archibaldii</name>
+      <bbox>
+        <xmin>672</xmin>
+        <xmax>994</xmax>
+        <ymin>830</ymin>
+        <ymax>1032</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

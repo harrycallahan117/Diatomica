@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1087</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>279</xmin>
+        <xmax>562</xmax>
+        <ymin>346</ymin>
+        <ymax>694</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>887</xmin>
+        <xmax>1206</xmax>
+        <ymin>772</ymin>
+        <ymax>1509</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

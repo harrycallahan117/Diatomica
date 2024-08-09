@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1151</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>797</xmin>
+        <xmax>1159</xmax>
+        <ymin>1080</ymin>
+        <ymax>1269</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

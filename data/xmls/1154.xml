@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1154</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>569</xmin>
+        <xmax>765</xmax>
+        <ymin>462</ymin>
+        <ymax>660</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>895</xmin>
+        <xmax>1346</xmax>
+        <ymin>852</ymin>
+        <ymax>963</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

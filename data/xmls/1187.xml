@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1187</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>78</id>
+      <name>Achnanthidium minutissimum</name>
+      <bbox>
+        <xmin>1380</xmin>
+        <xmax>1551</xmax>
+        <ymin>115</ymin>
+        <ymax>233</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>620</xmin>
+        <xmax>877</xmax>
+        <ymin>247</ymin>
+        <ymax>987</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1029</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>852</xmin>
+        <xmax>1268</xmax>
+        <ymin>159</ymin>
+        <ymax>424</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>761</xmin>
+        <xmax>1198</xmax>
+        <ymin>899</ymin>
+        <ymax>1033</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

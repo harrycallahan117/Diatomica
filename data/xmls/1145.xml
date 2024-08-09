@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1145</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>78</id>
+      <name>Achnanthidium minutissimum</name>
+      <bbox>
+        <xmin>1823</xmin>
+        <xmax>1939</xmax>
+        <ymin>1008</ymin>
+        <ymax>1157</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1199</xmin>
+        <xmax>1343</xmax>
+        <ymin>210</ymin>
+        <ymax>376</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>657</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>12</id>
+      <name>Encyonema ventricosum</name>
+      <bbox>
+        <xmin>1793</xmin>
+        <xmax>1930</xmax>
+        <ymin>502</ymin>
+        <ymax>849</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>56</id>
+      <name>Diatoma mesodon</name>
+      <bbox>
+        <xmin>941</xmin>
+        <xmax>1100</xmax>
+        <ymin>92</ymin>
+        <ymax>524</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

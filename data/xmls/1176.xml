@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1176</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>49</xmin>
+        <xmax>245</xmax>
+        <ymin>428</ymin>
+        <ymax>486</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

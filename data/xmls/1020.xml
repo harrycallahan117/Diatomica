@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1020</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>78</id>
+      <name>Achnanthidium minutissimum</name>
+      <bbox>
+        <xmin>1470</xmin>
+        <xmax>1654</xmax>
+        <ymin>566</ymin>
+        <ymax>661</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>1118</xmin>
+        <xmax>1516</xmax>
+        <ymin>969</ymin>
+        <ymax>1244</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

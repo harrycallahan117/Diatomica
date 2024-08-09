@@ -1,0 +1,31 @@
+<annotation>
+  <filename>297</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>1167</xmin>
+        <xmax>1388</xmax>
+        <ymin>714</ymin>
+        <ymax>1076</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>485</xmin>
+        <xmax>890</xmax>
+        <ymin>612</ymin>
+        <ymax>1084</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

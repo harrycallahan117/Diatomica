@@ -1,0 +1,31 @@
+<annotation>
+  <filename>18</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1539</xmin>
+        <xmax>1861</xmax>
+        <ymin>36</ymin>
+        <ymax>138</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>510</xmin>
+        <xmax>1245</xmax>
+        <ymin>827</ymin>
+        <ymax>1046</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

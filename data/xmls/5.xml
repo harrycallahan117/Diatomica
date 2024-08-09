@@ -1,0 +1,31 @@
+<annotation>
+  <filename>5</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>7</xmin>
+        <xmax>126</xmax>
+        <ymin>1041</ymin>
+        <ymax>1328</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>123</id>
+      <name>Gomphonema exilissimum</name>
+      <bbox>
+        <xmin>1277</xmin>
+        <xmax>1603</xmax>
+        <ymin>832</ymin>
+        <ymax>1107</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

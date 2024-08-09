@@ -1,0 +1,31 @@
+<annotation>
+  <filename>824</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>598</xmin>
+        <xmax>780</xmax>
+        <ymin>847</ymin>
+        <ymax>993</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>1803</xmin>
+        <xmax>2110</xmax>
+        <ymin>730</ymin>
+        <ymax>1231</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

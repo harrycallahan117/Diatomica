@@ -1,0 +1,21 @@
+<annotation>
+  <filename>131</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>14</id>
+      <name>Navicula trivialis</name>
+      <bbox>
+        <xmin>363</xmin>
+        <xmax>1023</xmax>
+        <ymin>551</ymin>
+        <ymax>724</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1070</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>204</xmin>
+        <xmax>619</xmax>
+        <ymin>265</ymin>
+        <ymax>380</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

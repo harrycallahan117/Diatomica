@@ -1,0 +1,31 @@
+<annotation>
+  <filename>161</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>1490</xmin>
+        <xmax>1709</xmax>
+        <ymin>911</ymin>
+        <ymax>983</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>921</xmin>
+        <xmax>1380</xmax>
+        <ymin>343</ymin>
+        <ymax>713</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

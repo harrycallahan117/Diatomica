@@ -1,0 +1,21 @@
+<annotation>
+  <filename>187</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>674</xmin>
+        <xmax>978</xmax>
+        <ymin>518</ymin>
+        <ymax>1133</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

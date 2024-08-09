@@ -1,0 +1,41 @@
+<annotation>
+  <filename>213</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>442</xmin>
+        <xmax>674</xmax>
+        <ymin>262</ymin>
+        <ymax>760</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>21</id>
+      <name>Nitzschia archibaldii</name>
+      <bbox>
+        <xmin>1172</xmin>
+        <xmax>1521</xmax>
+        <ymin>1006</ymin>
+        <ymax>1157</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>512</xmin>
+        <xmax>959</xmax>
+        <ymin>1062</ymin>
+        <ymax>1255</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

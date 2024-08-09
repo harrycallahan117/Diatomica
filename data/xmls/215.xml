@@ -1,0 +1,31 @@
+<annotation>
+  <filename>215</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>888</xmin>
+        <xmax>1043</xmax>
+        <ymin>340</ymin>
+        <ymax>844</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>10</id>
+      <name>Navicula cryptocephala</name>
+      <bbox>
+        <xmin>526</xmin>
+        <xmax>854</xmax>
+        <ymin>636</ymin>
+        <ymax>1157</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

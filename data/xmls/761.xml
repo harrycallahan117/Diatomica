@@ -1,0 +1,31 @@
+<annotation>
+  <filename>761</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>410</xmin>
+        <xmax>746</xmax>
+        <ymin>583</ymin>
+        <ymax>848</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>58</id>
+      <name>Gomphonema pumilum var. rigidum</name>
+      <bbox>
+        <xmin>670</xmin>
+        <xmax>1104</xmax>
+        <ymin>286</ymin>
+        <ymax>435</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

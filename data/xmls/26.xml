@@ -1,0 +1,61 @@
+<annotation>
+  <filename>26</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>5</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>579</xmin>
+        <xmax>785</xmax>
+        <ymin>515</ymin>
+        <ymax>678</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>437</xmin>
+        <xmax>712</xmax>
+        <ymin>1158</ymin>
+        <ymax>1557</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>142</id>
+      <name>Gomphonema drutelingense</name>
+      <bbox>
+        <xmin>739</xmin>
+        <xmax>1210</xmax>
+        <ymin>90</ymin>
+        <ymax>241</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>751</xmin>
+        <xmax>1270</xmax>
+        <ymin>1112</ymin>
+        <ymax>1430</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>142</id>
+      <name>Gomphonema drutelingense</name>
+      <bbox>
+        <xmin>1022</xmin>
+        <xmax>1546</xmax>
+        <ymin>513</ymin>
+        <ymax>684</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

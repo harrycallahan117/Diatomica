@@ -1,0 +1,31 @@
+<annotation>
+  <filename>99</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>758</xmin>
+        <xmax>981</xmax>
+        <ymin>102</ymin>
+        <ymax>367</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>634</xmin>
+        <xmax>913</xmax>
+        <ymin>749</ymin>
+        <ymax>1232</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

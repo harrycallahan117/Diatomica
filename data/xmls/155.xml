@@ -1,0 +1,21 @@
+<annotation>
+  <filename>155</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>22</id>
+      <name>Didymosphenia geminata</name>
+      <bbox>
+        <xmin>167</xmin>
+        <xmax>1903</xmax>
+        <ymin>340</ymin>
+        <ymax>988</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

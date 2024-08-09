@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1258</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>91</id>
+      <name>Halamphora veneta</name>
+      <bbox>
+        <xmin>946</xmin>
+        <xmax>1200</xmax>
+        <ymin>1245</ymin>
+        <ymax>1467</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

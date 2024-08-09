@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1213</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>888</xmin>
+        <xmax>1188</xmax>
+        <ymin>697</ymin>
+        <ymax>1182</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>75</id>
+      <name>Nitzschia palea</name>
+      <bbox>
+        <xmin>1393</xmin>
+        <xmax>1934</xmax>
+        <ymin>539</ymin>
+        <ymax>867</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

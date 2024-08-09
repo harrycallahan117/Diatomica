@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>142</id>
+      <name>Gomphonema drutelingense</name>
+      <bbox>
+        <xmin>554</xmin>
+        <xmax>712</xmax>
+        <ymin>1110</ymin>
+        <ymax>1577</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

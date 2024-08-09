@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1156</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>78</id>
+      <name>Achnanthidium minutissimum</name>
+      <bbox>
+        <xmin>719</xmin>
+        <xmax>819</xmax>
+        <ymin>71</ymin>
+        <ymax>249</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>3</id>
+      <name>Nitzschia linearis</name>
+      <bbox>
+        <xmin>476</xmin>
+        <xmax>1371</xmax>
+        <ymin>1190</ymin>
+        <ymax>1356</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>286</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>43</id>
+      <name>Sellaphora saugerresii</name>
+      <bbox>
+        <xmin>999</xmin>
+        <xmax>1126</xmax>
+        <ymin>378</ymin>
+        <ymax>496</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>520</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>33</id>
+      <name>Planothidium frequentissimum</name>
+      <bbox>
+        <xmin>957</xmin>
+        <xmax>1063</xmax>
+        <ymin>462</ymin>
+        <ymax>768</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1329</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>97</id>
+      <name>Halamphora paraveneta</name>
+      <bbox>
+        <xmin>1557</xmin>
+        <xmax>2019</xmax>
+        <ymin>53</ymin>
+        <ymax>340</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>629</xmin>
+        <xmax>1147</xmax>
+        <ymin>632</ymin>
+        <ymax>818</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

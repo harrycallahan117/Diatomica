@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1186</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>623</xmin>
+        <xmax>734</xmax>
+        <ymin>73</ymin>
+        <ymax>437</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>800</xmin>
+        <xmax>1169</xmax>
+        <ymin>497</ymin>
+        <ymax>821</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>93</id>
+      <name>Cymbopleura amphicephala</name>
+      <bbox>
+        <xmin>735</xmin>
+        <xmax>1219</xmax>
+        <ymin>815</ymin>
+        <ymax>1069</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

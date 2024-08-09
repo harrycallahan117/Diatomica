@@ -1,0 +1,21 @@
+<annotation>
+  <filename>78</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>1501</xmin>
+        <xmax>1957</xmax>
+        <ymin>296</ymin>
+        <ymax>450</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

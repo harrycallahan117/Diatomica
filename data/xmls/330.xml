@@ -1,0 +1,21 @@
+<annotation>
+  <filename>330</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>10</id>
+      <name>Navicula cryptocephala</name>
+      <bbox>
+        <xmin>458</xmin>
+        <xmax>896</xmax>
+        <ymin>485</ymin>
+        <ymax>930</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

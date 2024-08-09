@@ -1,0 +1,21 @@
+<annotation>
+  <filename>941</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>4</id>
+      <name>Diploneis fontanella</name>
+      <bbox>
+        <xmin>1596</xmin>
+        <xmax>1837</xmax>
+        <ymin>724</ymin>
+        <ymax>985</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

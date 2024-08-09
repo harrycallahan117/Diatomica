@@ -1,0 +1,41 @@
+<annotation>
+  <filename>692</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>583</xmin>
+        <xmax>761</xmax>
+        <ymin>522</ymin>
+        <ymax>871</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>56</id>
+      <name>Diatoma mesodon</name>
+      <bbox>
+        <xmin>890</xmin>
+        <xmax>1172</xmax>
+        <ymin>279</ymin>
+        <ymax>532</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>55</id>
+      <name>Gomphonema minutum</name>
+      <bbox>
+        <xmin>668</xmin>
+        <xmax>1088</xmax>
+        <ymin>1344</ymin>
+        <ymax>1530</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

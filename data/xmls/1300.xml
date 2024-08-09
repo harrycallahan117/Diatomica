@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1300</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>95</id>
+      <name>Navicula cryptotenelloides</name>
+      <bbox>
+        <xmin>348</xmin>
+        <xmax>641</xmax>
+        <ymin>425</ymin>
+        <ymax>639</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>101</id>
+      <name>Epithemia goeppertiana</name>
+      <bbox>
+        <xmin>397</xmin>
+        <xmax>950</xmax>
+        <ymin>316</ymin>
+        <ymax>745</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

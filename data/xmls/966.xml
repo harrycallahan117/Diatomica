@@ -1,0 +1,21 @@
+<annotation>
+  <filename>966</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>69</id>
+      <name>Navicula novaesiberica</name>
+      <bbox>
+        <xmin>367</xmin>
+        <xmax>1194</xmax>
+        <ymin>574</ymin>
+        <ymax>764</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

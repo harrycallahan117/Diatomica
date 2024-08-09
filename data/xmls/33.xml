@@ -1,0 +1,41 @@
+<annotation>
+  <filename>33</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>1375</xmin>
+        <xmax>1561</xmax>
+        <ymin>848</ymin>
+        <ymax>1199</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>707</xmin>
+        <xmax>1095</xmax>
+        <ymin>240</ymin>
+        <ymax>458</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>142</id>
+      <name>Gomphonema drutelingense</name>
+      <bbox>
+        <xmin>776</xmin>
+        <xmax>1309</xmax>
+        <ymin>703</ymin>
+        <ymax>834</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

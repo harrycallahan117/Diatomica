@@ -1,0 +1,21 @@
+<annotation>
+  <filename>716</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>876</xmin>
+        <xmax>1041</xmax>
+        <ymin>1198</ymin>
+        <ymax>1386</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

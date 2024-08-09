@@ -1,0 +1,31 @@
+<annotation>
+  <filename>906</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>60</id>
+      <name>Amphora pediculus</name>
+      <bbox>
+        <xmin>517</xmin>
+        <xmax>635</xmax>
+        <ymin>691</ymin>
+        <ymax>892</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>276</xmin>
+        <xmax>514</xmax>
+        <ymin>1169</ymin>
+        <ymax>1465</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

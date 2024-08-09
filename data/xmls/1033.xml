@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1033</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>88</xmin>
+        <xmax>297</xmax>
+        <ymin>842</ymin>
+        <ymax>920</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>3</id>
+      <name>Nitzschia linearis</name>
+      <bbox>
+        <xmin>542</xmin>
+        <xmax>1216</xmax>
+        <ymin>230</ymin>
+        <ymax>1264</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

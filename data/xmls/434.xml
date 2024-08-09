@@ -1,0 +1,31 @@
+<annotation>
+  <filename>434</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1229</xmin>
+        <xmax>1523</xmax>
+        <ymin>1193</ymin>
+        <ymax>1468</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>915</xmin>
+        <xmax>1210</xmax>
+        <ymin>924</ymin>
+        <ymax>1104</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

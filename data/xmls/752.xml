@@ -1,0 +1,31 @@
+<annotation>
+  <filename>752</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>58</id>
+      <name>Gomphonema pumilum var. rigidum</name>
+      <bbox>
+        <xmin>319</xmin>
+        <xmax>511</xmax>
+        <ymin>1038</ymin>
+        <ymax>1317</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>409</xmin>
+        <xmax>689</xmax>
+        <ymin>834</ymin>
+        <ymax>982</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

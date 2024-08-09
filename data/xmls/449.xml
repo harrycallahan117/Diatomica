@@ -1,0 +1,21 @@
+<annotation>
+  <filename>449</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>59</id>
+      <name>Caloneis lancettula</name>
+      <bbox>
+        <xmin>853</xmin>
+        <xmax>1119</xmax>
+        <ymin>964</ymin>
+        <ymax>1286</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

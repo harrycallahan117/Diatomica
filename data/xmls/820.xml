@@ -1,0 +1,21 @@
+<annotation>
+  <filename>820</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>646</xmin>
+        <xmax>946</xmax>
+        <ymin>731</ymin>
+        <ymax>999</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

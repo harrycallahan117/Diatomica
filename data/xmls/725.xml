@@ -1,0 +1,31 @@
+<annotation>
+  <filename>725</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>1440</xmin>
+        <xmax>1739</xmax>
+        <ymin>805</ymin>
+        <ymax>1036</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>12</id>
+      <name>Encyonema ventricosum</name>
+      <bbox>
+        <xmin>664</xmin>
+        <xmax>976</xmax>
+        <ymin>1021</ymin>
+        <ymax>1170</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

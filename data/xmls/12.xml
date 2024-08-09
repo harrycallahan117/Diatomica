@@ -1,0 +1,41 @@
+<annotation>
+  <filename>12</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>4</id>
+      <name>Diploneis fontanella</name>
+      <bbox>
+        <xmin>1048</xmin>
+        <xmax>1347</xmax>
+        <ymin>563</ymin>
+        <ymax>685</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>3</id>
+      <name>Nitzschia linearis</name>
+      <bbox>
+        <xmin>1534</xmin>
+        <xmax>1854</xmax>
+        <ymin>285</ymin>
+        <ymax>1503</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>1234</xmin>
+        <xmax>1819</xmax>
+        <ymin>115</ymin>
+        <ymax>275</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>29</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>1391</xmin>
+        <xmax>1518</xmax>
+        <ymin>1024</ymin>
+        <ymax>1421</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>509</xmin>
+        <xmax>1032</xmax>
+        <ymin>469</ymin>
+        <ymax>1075</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

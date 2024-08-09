@@ -1,0 +1,31 @@
+<annotation>
+  <filename>642</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>74</xmin>
+        <xmax>292</xmax>
+        <ymin>1265</ymin>
+        <ymax>1565</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>780</xmin>
+        <xmax>1058</xmax>
+        <ymin>1239</ymin>
+        <ymax>1543</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

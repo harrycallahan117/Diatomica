@@ -1,0 +1,31 @@
+<annotation>
+  <filename>874</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>1187</xmin>
+        <xmax>1356</xmax>
+        <ymin>1022</ymin>
+        <ymax>1162</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>59</id>
+      <name>Caloneis lancettula</name>
+      <bbox>
+        <xmin>586</xmin>
+        <xmax>794</xmax>
+        <ymin>172</ymin>
+        <ymax>521</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

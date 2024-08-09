@@ -1,0 +1,31 @@
+<annotation>
+  <filename>241</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>43</id>
+      <name>Sellaphora saugerresii</name>
+      <bbox>
+        <xmin>1097</xmin>
+        <xmax>1182</xmax>
+        <ymin>309</ymin>
+        <ymax>433</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>886</xmin>
+        <xmax>1088</xmax>
+        <ymin>906</ymin>
+        <ymax>1387</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

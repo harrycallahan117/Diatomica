@@ -1,0 +1,31 @@
+<annotation>
+  <filename>316</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1355</xmin>
+        <xmax>1500</xmax>
+        <ymin>761</ymin>
+        <ymax>818</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1186</xmin>
+        <xmax>1511</xmax>
+        <ymin>753</ymin>
+        <ymax>906</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

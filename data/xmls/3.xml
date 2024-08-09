@@ -1,0 +1,21 @@
+<annotation>
+  <filename>3</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>845</xmin>
+        <xmax>1331</xmax>
+        <ymin>514</ymin>
+        <ymax>879</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

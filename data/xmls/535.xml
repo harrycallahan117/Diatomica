@@ -1,0 +1,31 @@
+<annotation>
+  <filename>535</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>1547</xmin>
+        <xmax>1675</xmax>
+        <ymin>235</ymin>
+        <ymax>427</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>12</id>
+      <name>Encyonema ventricosum</name>
+      <bbox>
+        <xmin>524</xmin>
+        <xmax>817</xmax>
+        <ymin>1197</ymin>
+        <ymax>1312</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

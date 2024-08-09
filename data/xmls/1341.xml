@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1341</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>1057</xmin>
+        <xmax>1300</xmax>
+        <ymin>96</ymin>
+        <ymax>816</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>561</xmin>
+        <xmax>1057</xmax>
+        <ymin>334</ymin>
+        <ymax>553</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

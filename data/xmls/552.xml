@@ -1,0 +1,21 @@
+<annotation>
+  <filename>552</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>64</id>
+      <name>Sellaphora radiosa</name>
+      <bbox>
+        <xmin>961</xmin>
+        <xmax>1067</xmax>
+        <ymin>1104</ymin>
+        <ymax>1366</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

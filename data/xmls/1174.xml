@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1174</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>304</xmin>
+        <xmax>479</xmax>
+        <ymin>639</ymin>
+        <ymax>912</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>3</id>
+      <name>Nitzschia linearis</name>
+      <bbox>
+        <xmin>938</xmin>
+        <xmax>1691</xmax>
+        <ymin>241</ymin>
+        <ymax>1539</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

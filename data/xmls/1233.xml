@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1233</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>94</id>
+      <name>Denticula kuetzingii</name>
+      <bbox>
+        <xmin>856</xmin>
+        <xmax>1190</xmax>
+        <ymin>417</ymin>
+        <ymax>758</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

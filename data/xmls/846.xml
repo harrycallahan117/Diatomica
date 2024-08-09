@@ -1,0 +1,31 @@
+<annotation>
+  <filename>846</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>19</id>
+      <name>Navicula tripunctata</name>
+      <bbox>
+        <xmin>727</xmin>
+        <xmax>906</xmax>
+        <ymin>277</ymin>
+        <ymax>1079</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>1656</xmin>
+        <xmax>1973</xmax>
+        <ymin>1007</ymin>
+        <ymax>1132</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

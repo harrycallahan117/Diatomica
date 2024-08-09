@@ -1,0 +1,21 @@
+<annotation>
+  <filename>734</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>62</id>
+      <name>Navicula lanceolata</name>
+      <bbox>
+        <xmin>426</xmin>
+        <xmax>1258</xmax>
+        <ymin>570</ymin>
+        <ymax>990</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

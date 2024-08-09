@@ -1,0 +1,21 @@
+<annotation>
+  <filename>270</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>21</id>
+      <name>Nitzschia archibaldii</name>
+      <bbox>
+        <xmin>414</xmin>
+        <xmax>607</xmax>
+        <ymin>508</ymin>
+        <ymax>868</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

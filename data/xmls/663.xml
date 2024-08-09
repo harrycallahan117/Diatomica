@@ -1,0 +1,21 @@
+<annotation>
+  <filename>663</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>56</id>
+      <name>Diatoma mesodon</name>
+      <bbox>
+        <xmin>733</xmin>
+        <xmax>1008</xmax>
+        <ymin>1012</ymin>
+        <ymax>1303</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

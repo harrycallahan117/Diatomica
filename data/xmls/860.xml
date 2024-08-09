@@ -1,0 +1,41 @@
+<annotation>
+  <filename>860</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>32</id>
+      <name>Humidophila perpusilla</name>
+      <bbox>
+        <xmin>1476</xmin>
+        <xmax>1671</xmax>
+        <ymin>979</ymin>
+        <ymax>1061</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>58</id>
+      <name>Gomphonema pumilum var. rigidum</name>
+      <bbox>
+        <xmin>1711</xmin>
+        <xmax>2009</xmax>
+        <ymin>887</ymin>
+        <ymax>1050</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>507</xmin>
+        <xmax>815</xmax>
+        <ymin>943</ymin>
+        <ymax>1113</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

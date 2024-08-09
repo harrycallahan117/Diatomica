@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1198</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>1210</xmin>
+        <xmax>1323</xmax>
+        <ymin>47</ymin>
+        <ymax>313</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>639</xmin>
+        <xmax>893</xmax>
+        <ymin>866</ymin>
+        <ymax>1347</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

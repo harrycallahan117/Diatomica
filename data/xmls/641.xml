@@ -1,0 +1,31 @@
+<annotation>
+  <filename>641</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>4</id>
+      <name>Diploneis fontanella</name>
+      <bbox>
+        <xmin>64</xmin>
+        <xmax>196</xmax>
+        <ymin>1158</ymin>
+        <ymax>1548</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>901</xmin>
+        <xmax>1188</xmax>
+        <ymin>769</ymin>
+        <ymax>1129</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

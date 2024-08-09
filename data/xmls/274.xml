@@ -1,0 +1,41 @@
+<annotation>
+  <filename>274</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>44</id>
+      <name>Navicula gregaria</name>
+      <bbox>
+        <xmin>114</xmin>
+        <xmax>503</xmax>
+        <ymin>443</ymin>
+        <ymax>544</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>489</xmin>
+        <xmax>894</xmax>
+        <ymin>152</ymin>
+        <ymax>453</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>706</xmin>
+        <xmax>1205</xmax>
+        <ymin>920</ymin>
+        <ymax>1159</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

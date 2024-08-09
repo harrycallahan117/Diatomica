@@ -1,0 +1,41 @@
+<annotation>
+  <filename>23</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>1104</xmin>
+        <xmax>1503</xmax>
+        <ymin>710</ymin>
+        <ymax>918</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>693</xmin>
+        <xmax>1134</xmax>
+        <ymin>934</ymin>
+        <ymax>1083</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>706</xmin>
+        <xmax>1238</xmax>
+        <ymin>382</ymin>
+        <ymax>639</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

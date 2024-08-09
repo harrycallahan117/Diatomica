@@ -1,0 +1,51 @@
+<annotation>
+  <filename>35</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>317</xmin>
+        <xmax>463</xmax>
+        <ymin>1261</ymin>
+        <ymax>1408</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1093</xmin>
+        <xmax>1379</xmax>
+        <ymin>302</ymin>
+        <ymax>485</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>196</xmin>
+        <xmax>643</xmax>
+        <ymin>3</ymin>
+        <ymax>148</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>74</xmin>
+        <xmax>853</xmax>
+        <ymin>1017</ymin>
+        <ymax>1373</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

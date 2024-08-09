@@ -1,0 +1,31 @@
+<annotation>
+  <filename>27</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>565</xmin>
+        <xmax>741</xmax>
+        <ymin>145</ymin>
+        <ymax>487</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>143</id>
+      <name>Gomphonema micropus</name>
+      <bbox>
+        <xmin>652</xmin>
+        <xmax>971</xmax>
+        <ymin>706</ymin>
+        <ymax>1292</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

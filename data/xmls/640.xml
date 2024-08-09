@@ -1,0 +1,41 @@
+<annotation>
+  <filename>640</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>893</xmin>
+        <xmax>1149</xmax>
+        <ymin>864</ymin>
+        <ymax>1076</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>38</id>
+      <name>Rhoicosphenia abbreviata</name>
+      <bbox>
+        <xmin>492</xmin>
+        <xmax>813</xmax>
+        <ymin>804</ymin>
+        <ymax>1018</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>371</xmin>
+        <xmax>731</xmax>
+        <ymin>1205</ymin>
+        <ymax>1522</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

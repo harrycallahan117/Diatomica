@@ -1,0 +1,61 @@
+<annotation>
+  <filename>1078</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>5</segmented>
+  <objects>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>513</xmin>
+        <xmax>605</xmax>
+        <ymin>522</ymin>
+        <ymax>841</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>2</xmin>
+        <xmax>149</xmax>
+        <ymin>960</ymin>
+        <ymax>1382</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>999</xmin>
+        <xmax>1150</xmax>
+        <ymin>1023</ymin>
+        <ymax>1277</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>792</xmin>
+        <xmax>1090</xmax>
+        <ymin>444</ymin>
+        <ymax>517</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>77</id>
+      <name>Achnanthidium biasolettianum</name>
+      <bbox>
+        <xmin>927</xmin>
+        <xmax>1237</xmax>
+        <ymin>625</ymin>
+        <ymax>972</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

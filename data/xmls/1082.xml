@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1082</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>78</id>
+      <name>Achnanthidium minutissimum</name>
+      <bbox>
+        <xmin>1343</xmin>
+        <xmax>1461</xmax>
+        <ymin>286</ymin>
+        <ymax>449</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>178</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>13</id>
+      <name>Navicula capitatoradiata</name>
+      <bbox>
+        <xmin>658</xmin>
+        <xmax>1215</xmax>
+        <ymin>550</ymin>
+        <ymax>750</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

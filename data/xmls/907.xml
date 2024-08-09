@@ -1,0 +1,21 @@
+<annotation>
+  <filename>907</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>55</id>
+      <name>Gomphonema minutum</name>
+      <bbox>
+        <xmin>341</xmin>
+        <xmax>497</xmax>
+        <ymin>143</ymin>
+        <ymax>339</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>
